@@ -1,6 +1,6 @@
 Package: scoth
 Type: Package
-Title: Chain of Subsets for Change Point Detection
+Title: Changepoint Detection via Subset Chains
 Version: 1.0
 Author: Alexis Huet
 Maintainer: Alexis Huet <alexis.huet@huawei.com>
