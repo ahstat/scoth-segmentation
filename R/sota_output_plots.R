@@ -33,11 +33,11 @@ plot_cd_figures = function(OUTPUT_DATA_FOLDER) {
   # import matplotlib.pyplot as plt
   # filepaths = ["filepath/to/data_for_CD_oracle.csv", "filepath/to/data_for_CD_single_best.csv"]
   # for filepath in filepaths:
-	#   data = pd.read_csv(filepath).set_index('Unnamed: 0').reset_index(drop=True)
-	#   result = autorank(data, alpha=0.05, verbose=False)
-	#   create_report(result)
-	#   plot_stats(result)
-	#   plt.show()
+  #   data = pd.read_csv(filepath).set_index('Unnamed: 0').reset_index(drop=True)
+  #   result = autorank(data, alpha=0.05, verbose=False)
+  #   create_report(result)
+  #   plot_stats(result)
+  #   plt.show()
   # 
   # Report for oracle:
   # The statistical analysis was conducted for 4 populations with 42 paired samples.
